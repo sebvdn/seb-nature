@@ -10,11 +10,13 @@ copyright: "Copyright &copy; 2017 - Elastic Designs."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens"
+header: "Seb Nature"
 # 2nd heading/sub heading of the website.
-subheader: "Elastic Designs"
+subheader: ""
 # A description/bio of the website.
-bio: "A Jekyll theme for photographers and photo bloggers."
+bio: "Bonjour,
+Photographe animalier amateur, résidant en Lorraine.
+Je vous fais découvrir quelques unes de mes observations,au fil du temps.A Jekyll theme for photographers and photo bloggers."
 social:
   # Your Twitter username.
   twitter_username: ""
